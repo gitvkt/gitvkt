@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gitvkt 
 - 👀 www.vktsistemas.shop
 - 📫 vktsistemas@gmail.com
-
+- https://www.youtube.com/@vktsistemas
 
 <!---
 gitvkt/gitvkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
