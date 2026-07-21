@@ -42,15 +42,6 @@ A **VKT CLOUD** é voltada para soluções de hospedagem, infraestrutura e servi
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitvkt&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitvkt&layout=compact&theme=radial&hide=html,css"/>
-</div>
-
----
-
 ### 📬 Vamos nos conectar?
 
 <a href="https://vktcloud.com.br">
@@ -62,6 +53,9 @@ A **VKT CLOUD** é voltada para soluções de hospedagem, infraestrutura e servi
 <a href="https://linkedin.com/in/viquiato">
   <img src="https://img.shields.io/badge/LinkedIn-Deivid_↗️-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<!-- 
 <a href="https://wa.me/5522988081404">
-  <img src="https://img.shields.io/badge/WhatsApp-Contato_↗️-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+   <img src="https://img.shields.io/badge/WhatsApp-Contato_↗️-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
+  --!>
+
