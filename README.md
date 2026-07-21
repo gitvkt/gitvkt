@@ -54,4 +54,4 @@ A **VKT CLOUD** é voltada para soluções de hospedagem, infraestrutura e servi
 ### 📬 Vamos nos conectar?
 
 [![Website](https://img.shields.io/badge/VKT_CLOUD-vktcloud.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vktcloud.com.br)
-[![YouTube](https://img.shields.io/badge/YouTube-VKT_Sistemas-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com](https://www.youtube.com/@vktsistemas))
+[![YouTube](https://img.shields.io/badge/YouTube-VKT_Sistemas-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vktsistemas)
