@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolviment
 ### 🌐 Sobre a VKT CLOUD
 
 A **VKT CLOUD** é voltada para soluções de hospedagem, infraestrutura e serviços de TI.
-- 🔗 **Acesse:** [vktcloud.com.br](https://vktcloud.com.br)
+- 🔗 **Acesse:** <a href="https://vktcloud.com.br" target="_blank" rel="noopener noreferrer">vktcloud.com.br</a>
 - 🛠️ Hospedagem cPanel, servidores e gestão de infraestrutura.
 
 ---
