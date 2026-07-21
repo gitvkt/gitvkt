@@ -59,9 +59,9 @@ A **VKT CLOUD** é voltada para soluções de hospedagem, infraestrutura e servi
 <a href="https://youtube.com/@vktsistemas">
   <img src="https://img.shields.io/badge/YouTube-VKT_Sistemas_↗️-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube VKT Sistemas">
 </a>
-<a href="https://linkedin.com/in/SEU_PERFIL">
+<a href="https://linkedin.com/in/viquiato">
   <img src="https://img.shields.io/badge/LinkedIn-Deivid_↗️-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://wa.me/SEU_NUMERO">
+<a href="https://wa.me/5522988081404">
   <img src="https://img.shields.io/badge/WhatsApp-Contato_↗️-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
