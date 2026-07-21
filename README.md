@@ -1,18 +1,26 @@
-# Olá, eu sou o VKT! 👋
+# Olá, eu sou Deivid! 👋
 
-### 👨‍💻 Desenvolvedor & Analista de Sistemas
+### 🚀 Fundador da VKT CLOUD | Desenvolvedor & Analista de Sistemas
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolvimento back-end, arquitetura de sistemas e infraestrutura. Adoro criar soluções eficientes, automatizar processos e compartilhar conhecimento.
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolvimento back-end, arquitetura de sistemas e infraestrutura em nuvem. Lidero a **VKT CLOUD** criando soluções eficientes, otimizando servidores e automatizando processos.
 
 ---
 
-### 🚀 Sobre mim
+### 🌐 Sobre a VKT CLOUD
+
+A **VKT CLOUD** é voltada para soluções de hospedagem, infraestrutura e serviços de TI.
+- 🔗 **Acesse:** [vktcloud.com.br](https://vktcloud.com.br)
+- 🛠️ Hospedagem cPanel, servidores e gestão de infraestrutura.
+
+---
+
+### 👨‍💻 Sobre Mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 🛠️ Atuo com **Desenvolvimento Web, Infraestrutura e Servidores**
 - 📹 Criador de conteúdo no **VKT Sistemas / VKT Academy**
-- 🎯 Focado em aprimorar habilidades em **PHP, Python, Java e Bancos de Dados Relacionais**
-- 💡 Sempre aberto a novos desafios e projetos colaborativos!
+- 🎯 Focado em **PHP, Python, Java e Bancos de Dados Relacionais**
+- 💡 Aberto a conexões, novos projetos e parcerias!
 
 ---
 
@@ -26,7 +34,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolviment
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Banco de Dados & Infraestrutura:**
+**Infraestrutura & Bancos de Dados:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -45,5 +53,5 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolviment
 
 ### 📬 Vamos nos conectar?
 
-[![Website](https://img.shields.io/badge/Website-vktcloud.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vktcloud.com.br)
+[![Website](https://img.shields.io/badge/VKT_CLOUD-vktcloud.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vktcloud.com.br)
 [![YouTube](https://img.shields.io/badge/YouTube-VKT_Sistemas-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
